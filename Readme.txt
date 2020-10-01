@@ -1,3 +1,5 @@
+# Updated 
+
 In this assignment,we had to implement a concurrency control algorithm for an airline database.
 The system consists of transaction threads,concurrency control manager and an airline database.
 The database has a set of transactions and data structures containing flight information(passenger list for all flights).
